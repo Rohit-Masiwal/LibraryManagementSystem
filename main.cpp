@@ -1,8 +1,8 @@
 // src/main.cpp
 #include <iostream>
 #include <string>
-#include "Library.h"
-#include "Book.h"
+#include "Library.cpp"
+#include "Book.cpp"
 
 int main() {
     // Create a Library object
